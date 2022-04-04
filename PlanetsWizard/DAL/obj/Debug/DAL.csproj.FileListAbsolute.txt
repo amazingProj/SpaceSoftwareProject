@@ -1,0 +1,6 @@
+C:\Users\AssafHillel\source\repos\PlanetsWizard\DAL\bin\Debug\DAL.exe.config
+C:\Users\AssafHillel\source\repos\PlanetsWizard\DAL\bin\Debug\DAL.exe
+C:\Users\AssafHillel\source\repos\PlanetsWizard\DAL\bin\Debug\DAL.pdb
+C:\Users\AssafHillel\source\repos\PlanetsWizard\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\AssafHillel\source\repos\PlanetsWizard\DAL\obj\Debug\DAL.exe
+C:\Users\AssafHillel\source\repos\PlanetsWizard\DAL\obj\Debug\DAL.pdb
